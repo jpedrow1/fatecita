@@ -8,7 +8,7 @@ int main()
     //programa para calcular a area de um circulo
     //A = π·r²
     float raio;
-    printf("Digite o valor do Raio da circunferencia \n");
+    printf("Digite o valor do raio da circunferencia \n");
     scanf("%f", &raio);
     float area = PI * (raio * raio);
     printf("Area da circunferencia: %f \n", area);
