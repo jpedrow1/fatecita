@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618007938 source:/home/maromo/fatec/fatecita/aula0904/codigo03/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
