@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618613109 source:/home/maromo/fatec/fatecita/aula1604/correcao02/main.c
+	<stdio.h>
+	<stdlib.h>
+

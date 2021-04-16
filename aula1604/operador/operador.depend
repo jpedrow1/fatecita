@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618615912 source:/home/maromo/fatec/fatecita/aula1604/operador/main.c
+	<stdio.h>
+	<stdlib.h>
+
