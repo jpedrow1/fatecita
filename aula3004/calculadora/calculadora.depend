@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1619824588 source:/home/maromo/fatec/fatecita/aula3004/calculadora/calculadora.c
+	"calculadora.h"
+
+1619824588 /home/maromo/fatec/fatecita/aula3004/calculadora/calculadora.h
+
+1619825501 source:/home/maromo/fatec/fatecita/aula3004/calculadora/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
