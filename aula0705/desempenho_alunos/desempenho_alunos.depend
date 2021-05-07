@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620427787 source:/home/maromo/fatec/fatecita/aula0705/desempenho_alunos/main.c
+	<stdio.h>
+	<stdlib.h>
+

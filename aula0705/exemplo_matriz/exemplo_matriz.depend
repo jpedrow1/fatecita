@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620429610 source:/home/maromo/fatec/fatecita/aula0705/exemplo_matriz/main.c
+	<stdio.h>
+	<stdlib.h>
+

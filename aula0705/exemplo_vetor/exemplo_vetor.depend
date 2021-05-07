@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620426272 source:/home/maromo/fatec/fatecita/aula0705/exemplo_vetor/main.c
+	<stdio.h>
+	<stdlib.h>
+
